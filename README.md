@@ -1,4 +1,4 @@
-# Assignment 4: Agent-Based Model for Structural Tessellation Generation
+# Assignment 4: Agent-Based Modeling for Structural Tessellation Generation
 
 ![Example Structural Tessellation](images/structural_tessellation.jpg)
 
